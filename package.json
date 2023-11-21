@@ -1,6 +1,6 @@
 {
-  "name": "@solidlab/sdx",
-  "version": "0.8.0",
+  "name": "@solidlab/solid-sdx-cli",
+  "version": "0.0.0",
   "description": "Solid Development Experience toolkit",
   "type": "module",
   "main": "./dist/sdx.js",
@@ -40,7 +40,7 @@
   ],
   "author": "thomas.dupont@ugent.be",
   "repository": {
-    "url": "https://github.com/SolidLabResearch/sdx.git",
+    "url": "https://github.com/SolidLabResearch/solid-sdx-cli.git",
     "type": "git"
   },
   "license": "ISC",
