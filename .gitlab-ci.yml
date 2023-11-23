@@ -46,6 +46,7 @@ build-code:       # This job runs in the build stage, which runs first.
   script:
     - echo "Compiling the code..."
     - npm ci
+    - npm run build:version
     - npm run build
     - echo "Compile complete."
 
